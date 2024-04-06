@@ -21,3 +21,9 @@ All serial interfaces should use PPP encapsulation and should use either PAP or 
 All PCs should receive their addressing information via DHCP from their border router.
 HSRP routers/switches should assist DHCP by employing IP Helper as appropriate. 
 All PCs should be able to ping the 11.0.0.2 and 11.0.0.6 servers as well as the static NAT addresses of servers in the other areas.
+
+PART 2
+
+Pick any two of the network areas from the original diagram, then, using the wireless networking knowledge you have gained so far, convert the "client" areas of those two network areas into wireless networks.
+
+diagram file also imcluded.
