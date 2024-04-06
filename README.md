@@ -1,6 +1,6 @@
 # NETWORKING
 
-Task 1 - worth 50 marks:
+Task 1 -
 
 The first task is to build the network pictured below and ensure the services and features following the diagram are fully implemented and tested.  Please submit as a single Packet Tracer file please.
 
